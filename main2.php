@@ -47,8 +47,8 @@ function username($username)
 }
 echo username('userOke');
 echo "/ ";
-// merupakan kombinasi dari huruf kecil, huruf besar, angka, dan 
-// karakter spesial minimal satu simbol dan harus terdapat simbol 
+// merupakan kombinasi dari huruf kecil, huruf besar, angka, dan
+// karakter spesial minimal satu simbol dan harus terdapat simbol
 // “#”. Dengan panjang minimal 8 karakter.
 
 function password($password)
@@ -71,4 +71,3 @@ function password($password)
     }
 }
 echo password("C0d3YourFuture!@");
-
